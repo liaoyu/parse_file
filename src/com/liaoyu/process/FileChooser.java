@@ -18,7 +18,7 @@ import javax.swing.JOptionPane;
 import javax.swing.JTabbedPane;
 import javax.swing.JTextField;
 
-import com.liaou.po.FileItem;
+import com.liaoyu.po.FileItem;
 
 /**
  * @author  liaoyu

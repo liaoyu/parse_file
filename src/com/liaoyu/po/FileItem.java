@@ -1,4 +1,4 @@
-package com.liaou.po;
+package com.liaoyu.po;
 
 public class FileItem {
 

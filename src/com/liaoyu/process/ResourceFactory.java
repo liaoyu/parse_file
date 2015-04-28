@@ -21,8 +21,8 @@ import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
 import org.xml.sax.SAXException;
 
-import com.liaou.po.FileItem;
-import com.liaou.po.RecordField;
+import com.liaoyu.po.FileItem;
+import com.liaoyu.po.RecordField;
 
 /**
  * @author  liaoyu
