@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<bean>
+    <field length="2">Flag</field>
+    <field length="6">Data1</field>
+    <field length="4">Type</field>
+    <field length="2">Length</field>
+    <field length="12">Number</field>
+</bean>

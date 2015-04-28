@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bean>
+    <field length="2">Flag</field>
+    <field length="8">Date</field>
+    <field length="4">Type</field>
+</bean>
